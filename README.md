@@ -10,7 +10,7 @@ Projeto construído do evento Next Week da Rocketseat
 -CSS
 -GIT e Github
 
-[Clique aqui para acessar] (https://github.com/joaogasoares)
+[Clique aqui para acessar](https://github.com/joaogasoares)
 
 **## Contato**
 
