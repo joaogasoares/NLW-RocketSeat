@@ -45,7 +45,11 @@ header div a{
 header div:hover{
     transform: scale(1.1);
     transition: all 800ms;
+}
 
+header div:active{
+    transform: scale(1);
+    transition: all 300ms;
 }
 
 header img{
@@ -100,6 +104,11 @@ section ul {
 section ul li:hover{
     transform: scale(1.1);
     transition: all 800ms;
+}
+
+section ul li:active{
+    transform: scale(1);
+    transition: all 300ms;
 }
 
 .movie-list img {
