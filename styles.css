@@ -48,7 +48,7 @@ header div:hover{
 }
 
 header div:active{
-    transform: scale(1);
+    transform: scale(0.8);
     transition: all 300ms;
 }
 
@@ -107,7 +107,7 @@ section ul li:hover{
 }
 
 section ul li:active{
-    transform: scale(1);
+    transform: scale(0.8);
     transition: all 300ms;
 }
 
